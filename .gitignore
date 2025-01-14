@@ -1,3 +1,4 @@
 # Ignore datasets
-data/
-/Users/olaoluwatunmise/dubai_prediction/data
+
+data/rents.csv
+data/transactions.csv
