@@ -1,4 +1,4 @@
 # Ignore datasets
 
-data/rents.csv
 data/transactions.csv
+data/rents.csv
