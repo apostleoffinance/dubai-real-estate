@@ -9,5 +9,7 @@ Example:
 Download the required datasets:
 
 rent.csv
+
 transactions.csv
+
 Place the datasets in the data/ folder.
